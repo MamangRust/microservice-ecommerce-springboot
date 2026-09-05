@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/shipping-address-service/src/test/java/com/shippingaddressservice/shippingaddressservice/controller/ShippingAddressControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/shipping-address-service/src/test/java/com/shippingaddressservice/shippingaddressservice/repository/ShippingAddressRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/shipping-address-service/src/test/java/com/shippingaddressservice/shippingaddressservice/service/ShippingAddressServiceTest.java

@@ -1,0 +1,3 @@
+com/bannerservice/bannerservice/controller/BannerControllerTest.class
+com/bannerservice/bannerservice/repository/BannerRepositoryTest.class
+com/bannerservice/bannerservice/service/BannerServiceTest.class

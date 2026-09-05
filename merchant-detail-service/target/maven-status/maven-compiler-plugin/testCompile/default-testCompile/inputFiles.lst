@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-detail-service/src/test/java/com/merchantdetailservice/merchantdetailservice/controller/MerchantDetailControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-detail-service/src/test/java/com/merchantdetailservice/merchantdetailservice/repository/MerchantDetailRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-detail-service/src/test/java/com/merchantdetailservice/merchantdetailservice/service/MerchantDetailServiceTest.java

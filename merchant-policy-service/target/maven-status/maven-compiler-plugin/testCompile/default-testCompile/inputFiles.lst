@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-policy-service/src/test/java/com/merchantpolicyservice/merchantpolicyservice/controller/MerchantPolicyControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-policy-service/src/test/java/com/merchantpolicyservice/merchantpolicyservice/repository/MerchantPolicyRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-policy-service/src/test/java/com/merchantpolicyservice/merchantpolicyservice/service/MerchantPolicyServiceTest.java

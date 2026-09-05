@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-award-service/src/test/java/com/merchantawardservice/merchantawardservice/controller/MerchantAwardControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-award-service/src/test/java/com/merchantawardservice/merchantawardservice/repository/MerchantCertificationAndAwardRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/merchant-award-service/src/test/java/com/merchantawardservice/merchantawardservice/service/MerchantAwardServiceTest.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.category.category.repository.CategoryRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.79 s -- in com.category.category.repository.CategoryRepositoryTest

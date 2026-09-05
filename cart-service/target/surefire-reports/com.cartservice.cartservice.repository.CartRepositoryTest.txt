@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cartservice.cartservice.repository.CartRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.51 s -- in com.cartservice.cartservice.repository.CartRepositoryTest

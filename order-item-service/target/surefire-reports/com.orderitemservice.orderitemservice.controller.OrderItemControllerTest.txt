@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.orderitemservice.orderitemservice.controller.OrderItemControllerTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.993 s -- in com.orderitemservice.orderitemservice.controller.OrderItemControllerTest

@@ -1,0 +1,11 @@
+com/reviewdetailservice/reviewdetailservice/controller/ReviewDetailController.class
+com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailMapper.class
+com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailMapperImpl.class
+com/reviewdetailservice/reviewdetailservice/dto/ErrorResponse.class
+com/reviewdetailservice/reviewdetailservice/ReviewDetailServiceApplication.class
+com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailResponse.class
+com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailRequest.class
+com/reviewdetailservice/reviewdetailservice/exc/GeneralExceptionHandler.class
+com/reviewdetailservice/reviewdetailservice/entity/ReviewDetail.class
+com/reviewdetailservice/reviewdetailservice/repository/ReviewDetailRepository.class
+com/reviewdetailservice/reviewdetailservice/service/ReviewDetailService.class

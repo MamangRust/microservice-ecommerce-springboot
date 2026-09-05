@@ -1,0 +1,3 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/banner-service/src/test/java/com/bannerservice/bannerservice/controller/BannerControllerTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/banner-service/src/test/java/com/bannerservice/bannerservice/repository/BannerRepositoryTest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/banner-service/src/test/java/com/bannerservice/bannerservice/service/BannerServiceTest.java

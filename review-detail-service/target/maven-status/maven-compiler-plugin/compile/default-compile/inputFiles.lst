@@ -1,0 +1,10 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/ReviewDetailServiceApplication.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/controller/ReviewDetailController.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/dto/ErrorResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailMapper.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailRequest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/dto/ReviewDetailResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/entity/ReviewDetail.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/exc/GeneralExceptionHandler.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/repository/ReviewDetailRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-detail-service/src/main/java/com/reviewdetailservice/reviewdetailservice/service/ReviewDetailService.java

@@ -1,0 +1,10 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/ReviewServiceApplication.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/controller/ReviewController.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/dto/ErrorResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/dto/ReviewMapper.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/dto/ReviewRequest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/dto/ReviewResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/entity/Review.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/exc/GeneralExceptionHandler.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/repository/ReviewRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/review-service/src/main/java/com/reviewservice/reviewservice/service/ReviewService.java

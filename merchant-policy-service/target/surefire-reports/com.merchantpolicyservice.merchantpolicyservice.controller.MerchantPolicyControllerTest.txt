@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.merchantpolicyservice.merchantpolicyservice.controller.MerchantPolicyControllerTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.647 s -- in com.merchantpolicyservice.merchantpolicyservice.controller.MerchantPolicyControllerTest

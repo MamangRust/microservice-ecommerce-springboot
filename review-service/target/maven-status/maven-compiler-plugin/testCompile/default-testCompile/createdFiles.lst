@@ -1,0 +1,3 @@
+com/reviewservice/reviewservice/service/ReviewServiceTest.class
+com/reviewservice/reviewservice/controller/ReviewControllerTest.class
+com/reviewservice/reviewservice/repository/ReviewRepositoryTest.class

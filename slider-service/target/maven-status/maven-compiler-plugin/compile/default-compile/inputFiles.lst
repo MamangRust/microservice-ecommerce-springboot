@@ -1,0 +1,10 @@
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/SliderServiceApplication.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/controller/SliderController.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/dto/ErrorResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/dto/SliderMapper.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/dto/SliderRequest.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/dto/SliderResponse.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/entity/Slider.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/exc/GeneralExceptionHandler.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/repository/SliderRepository.java
+/home/hoover/Projects/java/quarkus/microservice-grpc/springboot/spring-boot-microservices-ecommerce/slider-service/src/main/java/com/sliderservice/sliderservice/service/SliderService.java
